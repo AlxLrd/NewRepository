@@ -1,0 +1,29 @@
+header{
+    width: 2000px;
+}
+
+.up{
+background-image: url('banner.png');
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.telo{
+    width: 6000px;
+}
+
+.mid{
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+footer{
+    width: 1000px;
+}
+
+.down{
+    background-image: url('colontigne.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
